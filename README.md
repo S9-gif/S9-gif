@@ -6,7 +6,7 @@ I'm a Statistics student turning numbers into decisions — and discipline into 
 - 🔭 Currently working on a customer churn prediction project (Python, scikit-learn)
 - 📚 Completed the Machine Learning Specialization (Stanford / DeepLearning.AI)
 - 🌱 Practicing algorithms and data structures (Blind75) in Python
-- 🌍 Working languages: Turkish (native), English (C1), Spanish (B2)
+- 🌍 Working languages: Turkish (native), English (B2+/C1), Spanish (B1)
 - 📫 To see my achievements and reach me => [LinkedIn](https://www.linkedin.com/in/ahmetsercankuru/)
 
 ## Skills
