@@ -1,4 +1,4 @@
-# Hello Im Ahmet Sercan Kuru,
+# Hello I'm Ahmet Sercan Kuru,
 
 Statistics student at Gazi University, building toward a career in AI/ML engineering.
 
