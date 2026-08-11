@@ -1,13 +1,13 @@
 # Hello I'm Ahmet Sercan Kuru,
 
-Statistics student at Gazi University, building toward a career in AI/ML engineering.
+I'm a Statistics student turning numbers into decisions — and discipline into progress. Every dataset I touch and every problem I solve is a step toward the same goal: becoming an AI/ML engineer who builds things that matter.
 
 - 🎓 2nd-year Statistics student, Gazi University (Faculty of Science)
 - 🔭 Currently working on a customer churn prediction project (Python, scikit-learn)
 - 📚 Completed the Machine Learning Specialization (Stanford / DeepLearning.AI)
 - 🌱 Practicing algorithms and data structures (Blind75) in Python
 - 🌍 Working languages: Turkish (native), English (C1), Spanish (B2)
-- 📫 Reach me on [LinkedIn](#https://www.linkedin.com/in/ahmetsercankuru)
+- 📫 To see my achievements and reach me => [LinkedIn](#https://www.linkedin.com/in/ahmetsercankuru)
 
 ## Skills
 
