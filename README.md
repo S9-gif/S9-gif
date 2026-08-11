@@ -7,7 +7,7 @@ I'm a Statistics student turning numbers into decisions — and discipline into 
 - 📚 Completed the Machine Learning Specialization (Stanford / DeepLearning.AI)
 - 🌱 Practicing algorithms and data structures (Blind75) in Python
 - 🌍 Working languages: Turkish (native), English (C1), Spanish (B2)
-- 📫 To see my achievements and reach me => #https://www.linkedin.com/in/ahmetsercankuru
+- 📫 To see my achievements and reach me => [LinkedIn](https://www.linkedin.com/in/ahmetsercankuru/)
 
 ## Skills
 
