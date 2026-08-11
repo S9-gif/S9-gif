@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello Im Ahmet Sercan Kuru,
 
-<!--
-**S9-gif/S9-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics student at Gazi University, building toward a career in AI/ML engineering.
 
-Here are some ideas to get you started:
+- 🎓 2nd-year Statistics student, Gazi University (Faculty of Science)
+- 🔭 Currently working on a customer churn prediction project (Python, scikit-learn)
+- 📚 Completed the Machine Learning Specialization (Stanford / DeepLearning.AI)
+- 🌱 Practicing algorithms and data structures (Blind75) in Python
+- 🌍 Working languages: Turkish (native), English (C1), Spanish (B2)
+- 📫 Reach me on [LinkedIn](#https://www.linkedin.com/in/ahmetsercankuru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python,R,
+- **ML / Data:** pandas, NumPy, scikit-learn, Jupyter,Matplotlib, Seaborn
+- **Backend:** FastAPI, PostgreSQL,Microsoft SQL,
+- **Tools:** Git, GitHub
+
+
+## Projects
+
+- **[telco-churn-prediction](https://github.com/S9-gif/telco-churn-prediction)** — Currently building Machine learning project predicting customer churn on the IBM Telco dataset (EDA, feature engineering, model training).
+- **[OLC-My-First-Project](https://github.com/S9-gif/OLC-My-First-Project)** — AI-powered news reading platform (Python, FastAPI, PostgreSQL).
+- **[Blind75](https://github.com/S9-gif/Blind75)** — Blind 75 algorithm solutions in Python, organized by topic.
+- **[neetcode-submissions](https://github.com/S9-gif/neetcode-submissions)** — NeetCode.io problem submissions.
