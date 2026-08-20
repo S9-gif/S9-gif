@@ -4,7 +4,7 @@ I'm a Statistics student turning numbers into decisions — and discipline into 
 
 - 🎓 2nd-year Statistics student, Gazi University (Faculty of Science)
 - 🔭 Currently working on a customer churn prediction project (Python, scikit-learn)
-- 📚 Completed the Machine Learning Specialization (Stanford / DeepLearning.AI)
+- 📚 Completed sertifications like the Machine Learning Specialization (Stanford / DeepLearning.AI) and Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - 🌱 Practicing algorithms and data structures (Blind75) in Python
 - 🌍 Working languages: Turkish (native), English (B2+/C1), Spanish (B1)
 - 📫 To see my achievements and reach me => [LinkedIn](https://www.linkedin.com/in/ahmetsercankuru/)
