@@ -22,4 +22,3 @@ I'm a Statistics student turning numbers into decisions — and discipline into 
 - **[telco-churn-prediction](https://github.com/S9-gif/telco-churn-prediction)** — Currently building Machine learning project predicting customer churn on the IBM Telco dataset (EDA, feature engineering, model training).
 - **[OLC-My-First-Project](https://github.com/S9-gif/OLC-My-First-Project)** — AI-powered news reading platform (Python, FastAPI, PostgreSQL).
 - **[Blind75](https://github.com/S9-gif/Blind75)** — Blind 75 algorithm solutions in Python, organized by topic.
-- **[neetcode-submissions](https://github.com/S9-gif/neetcode-submissions)** — NeetCode.io problem submissions.
