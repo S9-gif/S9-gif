@@ -3,7 +3,7 @@
 I'm a Statistics student turning numbers into decisions — and discipline into progress. Every dataset I touch and every problem I solve is a step toward the same goal: becoming an AI/ML engineer who builds things that matter.And I'm currently seeking for an internship in 2027 summer to imporve myself.
 
 - 🎓 2nd-year Statistics student, Gazi University (Faculty of Science)
-- 🔭 Currently working on a customer churn prediction project (Python, scikit-learn)
+- 🔭 Currently finished working on a customer churn prediction project (Python, scikit-learn)
 - 📚 Completed sertifications like the Machine Learning Specialization (Stanford / DeepLearning.AI) and Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - 🌱 Practicing algorithms and data structures (Blind75) in Python
 - 🌍 Working languages: Turkish (native), English (B2+/C1), Spanish (B1)
